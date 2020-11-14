@@ -1,5 +1,5 @@
 
-This was built using hexo v5.2.0.
+This was built using hexo v5.2.0. The master branch for the actual code is `code`. This is because the master branch needs to be the branch with the static site files on it for it to be served as a github page. The repo [is here](https://github.com/roopletters/roopletters.github.io).
 
 ## Commands
 
