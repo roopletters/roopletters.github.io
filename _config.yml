@@ -105,4 +105,4 @@ theme: hexo-theme-cupertino
 deploy:
   type: git
   repo: https://github.com/jcvandan/letters.git
-  branch: master
+  branch: gh-pages
