@@ -104,5 +104,5 @@ theme: hexo-theme-cupertino
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/jcvandan/letters.git
-  branch: gh-pages
+  repo: https://github.com/roopletters/roopletters.github.io.git
+  branch: master
