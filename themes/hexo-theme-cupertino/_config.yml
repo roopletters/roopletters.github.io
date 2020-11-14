@@ -28,17 +28,8 @@ footer:
     Archives: /archives
     About: /about
   # also the title
-  Projects:
+  Media:
     # the items
-    Transmister: https://github.com/transmister
-    CSS&JS Windows UWP XAML Controls: https://github.com/MrWillCom/css-and-js-windows-uwp-xaml-controls
-    Theme Cupertino: https://github.com/MrWillCom/hexo-theme-cupertino
-    GitHub Dark Mode: https://github.com/MrWillCom/github-dark-mode
-  # the title
-  Me:
-    # items
-    GitHub: https://github.com/MrWillCom
-    CodePen: https://codepen.io/mrwillcom
-    Patreon: https://www.patreon.com/MrWillCom
-    Email: mailto:mr.will.com@outlook.com
+    Photos: https://github.com/transmister
+    Videos: https://github.com/MrWillCom/css-and-js-windows-uwp-xaml-controls
 # REMEMBER TO EDIT THIS BEFORE DEPLOY!!!

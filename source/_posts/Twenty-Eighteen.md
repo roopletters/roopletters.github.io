@@ -1,12 +1,12 @@
 ---
-title: Feb 12th 2018
-date: 2020-11-13 18:55:14
+title: Twenty Eighteen
+date: 2019-02-12 18:55:14
 tags:
 ---
 
-Rupert Ralph,
+# Twenty Eighteen in review
 
-I wrote you a letter last Christmas and promised I would write one at the end of every year, but this time I'm a little bit late in doing it. It's February 12th, and we just got back from a weekend away in London. We went to visit Father Michael, your 3rd cousin, who lives in St Dominic’s Priory in Gospel Oak. We also visited a family friend, an old lady called Bridgett Jones who lives in Belsize Park. Mummy and Daddy used to stop at Bridgett’s a lot before you were born while we visited London. You liked going to her flat because she had some African fish hunting spears on her wall that you liked the look of. You have been a right little star all weekend, you have behaved impeccably and have been a pleasure to be around. The most fun thing we did while we were there was go to London Zoo. You loved it, because we saw 2 lions having a big fight right in front of the glass about a metre away from us!
+Rupert Ralph, I wrote you a letter last Christmas and promised I would write one at the end of every year, but this time I'm a little bit late in doing it. It's February 12th, and we just got back from a weekend away in London. We went to visit Father Michael, your 3rd cousin, who lives in St Dominic’s Priory in Gospel Oak. We also visited a family friend, an old lady called Bridgett Jones who lives in Belsize Park. Mummy and Daddy used to stop at Bridgett’s a lot before you were born while we visited London. You liked going to her flat because she had some African fish hunting spears on her wall that you liked the look of. You have been a right little star all weekend, you have behaved impeccably and have been a pleasure to be around. The most fun thing we did while we were there was go to London Zoo. You loved it, because we saw 2 lions having a big fight right in front of the glass about a metre away from us!
 
 You're nearly 2 now and a lot has changed since I last wrote you a letter for Christmas 2017. I think the last time I wrote you had just started crawling. You were still a little baby who didn't do or say a lot. All that has now changed dramatically, you're a real little toddler now. Running your Mummy and Daddy ragged! You're boisterous and funny, noisy and cute, inquisitive and whiney, and we love you for all these things. We do find you hard work sometimes and there have been many occasions we have been pulling our hair out over the past year, but we definitely think you're worth it as we can see what a lovely little boy you are starting to grow into.
 
