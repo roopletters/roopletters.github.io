@@ -4,7 +4,7 @@ date: 2018-01-14 17:58:21
 tags:
 ---
 
-# 2019 In Review
+# Twenty Nineteen in review
 
 Hiya Roop. Once again Christmas is just over and I'm writing you a letter to let you know everything that happened this year. It's 14th of January 2020 and I'm on the train to Rochdale to work. Before I left this morning I woke you up to say bye and you were upset because you like having me around in the day. You've got even more used to having me around during Christmas. It's not so bad though because I only do 3 days a week in the office so we get a lot of time together.
 

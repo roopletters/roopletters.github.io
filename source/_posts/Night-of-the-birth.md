@@ -1,0 +1,17 @@
+---
+title: Night of the birth
+date: 2017-01-25 23:00:00
+tags:
+---
+
+Hello again baby...although this time I can call you Rupert because at long last we met each other. Today has been a crazy day, an emotional rollercoaster. All morning and early afternoon me and your Mummy were so nervous waiting to be called by the doctors so they could get you out of Mummy's belly. FInally we got called in by the doctors and I had to wait outside with your Nana while your Mummy had some injections to stop her feeling hurt while you came out of her belly. I've never been so scared in my life while I waited and all I could do was sit and hope you were both ok.
+
+Eventually the doctors took me in, and I sat next to Mummy stroking her hair trying to make her feel better as she was very scared. After a few minutes the doctors told me you were out and I could look to see if you were a boy or a girl. When I saw you for the first time I couldn't breathe and all I could do was cry because I was so happy and overwhelmed. It was easily the greatest moment of my life. They then gave you to Mummy who gave you a cuddle to keep you warm, and we both sat there crying with happiness.
+
+We then had a lovely few hours with you in the afternoon, but you were having a bit of trouble breathing. This meant the doctors had to to take you for a while to make sure you weren't ill, and then you had to stay in an incubator for a night in a different room to us. We came to say hello though, me pushing Mummy over in a wheelchair, and we both put our hands into the incubator and gave you a stroke and a squeeze on your lovely soft skin. We were sad to say goodnight and leave you but the doctor says you should be alright tomorrow so we can have a day of cuddles with you.
+
+I'm at home now at George Street sat on the sofa with Ted. I just drove home from the hospital and I saw a crazy thing. A car drove past me at a hundred miles an hour being chased by a police car. It was a strange thing to see, but exciting. Also you might be interested to know that the first song I ever listened to in the car after you were born was Push by The Cure, a cool song I'll let you listen to one day. I drove away from the hospital playing it really loud and singing as loud as I could because I was so happy to have finally met you.
+
+Anyway, that's a summary of the day you were born. Me and Mummy are so happy you're finally here and love you more than anything already.
+
+Daddy x
